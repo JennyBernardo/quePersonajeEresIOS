@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1A338506-0707-4009-B4E3-9671C0FC88FB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1AE4031-0B31-489E-A609-D2092EA474DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QuePersonajeEresApp/ViewControllerCuestionarioViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "ViewControllerCuestionario"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D1AE4031-0B31-489E-A609-D2092EA474DF - fec3d0526e87929a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuePersonajeEresApp.ViewControllerCuestionarioViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; QuePersonajeEresApp.ViewControllerCuestionarioViewController"
+                  moduleName = "QuePersonajeEresApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jennyzizeth/Documents/QuePersonajeEresApp/QuePersonajeEresApp/ViewControllerCuestionarioViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "D1AE4031-0B31-489E-A609-D2092EA474DF - a5656d8eda4ae587"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuePersonajeEresApp.ViewControllerCuestionarioViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; QuePersonajeEresApp.ViewControllerCuestionarioViewController"
+                  moduleName = "QuePersonajeEresApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jennyzizeth/Documents/QuePersonajeEresApp/QuePersonajeEresApp/ViewControllerCuestionarioViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+               <Location
+                  uuid = "D1AE4031-0B31-489E-A609-D2092EA474DF - 546d2741c181c90d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuePersonajeEresApp.ViewControllerCuestionarioViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;QuePersonajeEresApp.ViewControllerCuestionarioViewController&gt;"
+                  moduleName = "QuePersonajeEresApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jennyzizeth/Documents/QuePersonajeEresApp/QuePersonajeEresApp/ViewControllerCuestionarioViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "D1AE4031-0B31-489E-A609-D2092EA474DF - 581a4ef8ae08556a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuePersonajeEresApp.ViewControllerCuestionarioViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;QuePersonajeEresApp.ViewControllerCuestionarioViewController&gt;"
+                  moduleName = "QuePersonajeEresApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jennyzizeth/Documents/QuePersonajeEresApp/QuePersonajeEresApp/ViewControllerCuestionarioViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+               <Location
+                  uuid = "D1AE4031-0B31-489E-A609-D2092EA474DF - b85b5cd157d239e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuePersonajeEresApp.ViewControllerCuestionarioViewController.__deallocating_deinit"
+                  moduleName = "QuePersonajeEresApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jennyzizeth/Documents/QuePersonajeEresApp/QuePersonajeEresApp/ViewControllerCuestionarioViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
